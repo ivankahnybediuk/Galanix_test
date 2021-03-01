@@ -40,6 +40,10 @@
           box-shadow: 5px 0 15px rgba(167, 164, 164, 0.575);
 }
 
+.results table {
+  margin: auto;
+}
+
 .results tr {
   font-weight: normal;
   color: #039;
